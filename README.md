@@ -4,8 +4,8 @@ Detecção de anomalias em licitações públicas utilizando pseudo-label e algo
 - pip install openpyxl
 - pip install pandas
 - pip install seaborn
+
 ============================================================
-Claro! Aqui está o que cada coluna representa, com base no que encontramos ao analisar o arquivo real (21 colunas, cobrindo licitações da área de educação):
 
 Identificação da licitação
 
