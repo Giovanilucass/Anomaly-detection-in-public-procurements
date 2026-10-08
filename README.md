@@ -39,5 +39,5 @@ O participante e o resultado
 
 CNPJ do participante candidato — CNPJ da empresa que participou/concorreu.
 Nome do participante candidato — razão social da empresa.
-Resultado da Habilitação — se aquele participante foi Classificado, Desclassificado, Habilitado, Inabilitado, Desistiu, etc. Quase metade das linhas está vazia aqui — provável indício de que essas linhas são só orçamento estimativo, sem uma proposta de fornecedor associada ainda.
+Resultado da Habilitação — se aquele participante foi Classificado, Desclassificado, Habilitado, Inabilitado, Desistiu, etc. Quase metade das linhas está vazia aqui, provável indício de que essas linhas são só orçamento estimativo, sem uma proposta de fornecedor associada ainda.
 Valor da Proposta — valor que o participante efetivamente propôs para aquele item. Essa é a coluna com os outliers extremos que identificamos (valores de bilhões/trilhões que não fazem sentido).
